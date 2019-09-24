@@ -16,7 +16,7 @@ public class JavaApplication21 {
      */
     public static void main(String[] args) {
         System.out.println("Main");
-        int variable=0;
+        int variable=1;
         String h="hola mundo";
     }
 
