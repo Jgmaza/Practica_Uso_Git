@@ -18,7 +18,7 @@ public class JavaApplication21 {
         System.out.println("Main");
         int variable=1;
         String h="hola mundo";
-        System.out.println("Como estas");
+        System.out.println("Mani que");
     }
 
 }
