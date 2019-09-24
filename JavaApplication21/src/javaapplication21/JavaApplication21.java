@@ -15,7 +15,9 @@ public class JavaApplication21 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Primera modificación");
+        System.out.println("Main");
+        int variable=0;
+        String h="hola mundo";
     }
 
 }
